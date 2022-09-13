@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ricardogainda
-- 👀 I’m interested in learning web development.
-- 🌱 I’m currently learning through The Odin Project
-- 📫 You can reach me at ricardogainda@gmail.com
+# git_test
+My first GitHub repo!
+Hello Odin!
 
 <!---
 ricardogainda/ricardogainda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
